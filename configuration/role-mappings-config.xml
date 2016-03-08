@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<role-mappings>
+    <groups>
+        <group name="crafter-admin">
+            <role>admin</role>
+        </group>
+        <group name="crafter-author">
+            <role>author</role>
+        </group>
+
+        <group name="crafter_gitreposite_admin">
+            <role>admin</role>
+        </group>
+        <group name="crafter_gitreposite_author">
+            <role>author</role>
+        </group>
+        <group name="crafter_gitreposite_viewer">
+            <role>viewer</role>
+        </group>         
+    </groups>
+</role-mappings>
