@@ -5,7 +5,7 @@
 	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
 	<placeInNav>false</placeInNav>
 	<file-name>index.xml</file-name>
-	<internal-name>Home | English (US) 11</internal-name>
+	<internal-name>Home | English (US) 22</internal-name>
 	<title>Home Page</title>
 	<meta-description>Home page</meta-description>
 	<meta-keywords>home page</meta-keywords>
@@ -14,7 +14,7 @@
 	<objectId>88ec7583-75f5-cd9a-949f-8ee259ff8ce1</objectId>
 	<folder-name>en</folder-name>
 	<createdDate>6/3/2015 1:6:26</createdDate>
-	<lastModifiedDate>3/18/2016 17:44:7</lastModifiedDate>
+	<lastModifiedDate>3/18/2016 18:7:23</lastModifiedDate>
 	<col1Modules>	<item>	<key>/site/components/page/entry/69c848c3-b2e4-49fc-e37f-8eec2ffe3a76.xml</key>
 	<value>Home page targeted slider</value>
 	<include>/site/components/page/entry/69c848c3-b2e4-49fc-e37f-8eec2ffe3a76.xml</include>
@@ -52,5 +52,5 @@
 	<include>/site/components/page/entry/2da8cd26-96e3-1ffa-42ef-257ea28eb754.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></col1Modules>
-	<lastModifiedDate_dt>3/18/2016 17:44:7</lastModifiedDate_dt>
+	<lastModifiedDate_dt>3/18/2016 18:7:23</lastModifiedDate_dt>
 </page>
