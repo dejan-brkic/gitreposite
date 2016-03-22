@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/generic</content-type>	<display-template>/templates/web/generic.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>550b</objectGroupId>
+	<objectId>550b5e86-919b-e90f-0c9c-2ee2544681db</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>delete</folder-name>
+	<internal-name>delete</internal-name>
+	<pageNavOrder>false</pageNavOrder>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<disabled>false</disabled>
+	<test/>
+	<body_html>&lt;p&gt;delete&lt;/p&gt;</body_html>
+	<createdDate>3/22/2016 21:22:26</createdDate>
+	<createdDate_dt>3/22/2016 21:22:26</createdDate_dt>
+	<lastModifiedDate>3/22/2016 21:22:26</lastModifiedDate>
+	<lastModifiedDate_dt>3/22/2016 21:22:26</lastModifiedDate_dt>
+</page>
